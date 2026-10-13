@@ -4,6 +4,13 @@
 }
 
 :root {
+  --cream: #fff4cc;
+  --orange: #c96f00;
+  --dark-orange: rgb(166, 97, 0);
+  --deep-orange: hsl(33, 100%, 30%);
+  --light-yellow: rgb(255, 224, 138);
+  --golden-yellow: hsl(45, 100%, 72%);
+
   --font-xxxl: 5.61rem;
   --font-xxl: 4.209rem;
   --font-xl: 3.157rem;
